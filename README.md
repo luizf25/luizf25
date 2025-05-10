@@ -48,8 +48,8 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho trabalhado:
 
 ## 📫 Como me encontrar
 
-*   🔗 **LinkedIn:** [https://linkedin.com/in/luiz-felipe-formiga-soares-384127365](https://linkedin.com/in/luiz-felipe-formiga-soares-384127365)
-<!--*   🌐 **Portfólio (se tiver):** [link-do-seu-portfolio.com](link-do-seu-portfolio.com)-->
+*   🔗 **LinkedIn:** [linkedin.com/in/luiz-felipe-formiga-soares-384127365](https://linkedin.com/in/luiz-felipe-formiga-soares-384127365)
+*   🌐 **Portfólio:** [luizf25.github.io/Portfolio](https://luizf25.github.io/Portfolio)
 
 ---
 
