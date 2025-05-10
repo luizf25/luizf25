@@ -39,8 +39,8 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho trabalhado:
 
 <p align="center">
   <a href="https://github.com/luizf25">
-    <img src="https://github-readme-stats.vercel.app/api?username=luizf25&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizf25&layout=compact&langs_count=5/>
+    <img src="https://github-readme-stats.vercel.app/api?username=luizf25&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&hide_rank=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizf25&layout=compact&langs_count=5&theme=github_dark_dimmed"/>
   </a>
 </p>
 
