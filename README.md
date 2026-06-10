@@ -1,6 +1,6 @@
 # Olá, eu sou Luiz Felipe 👋
 
-Sou um(a) estudante de Ciência da Computação na UniCEUB - Centro Universitário de Brasília, atualmente no 1º semestre. Tenho grande interesse em Desenvolvimento Web e Engenharia Reversa.
+Sou um(a) estudante de Ciência da Computação na UniCEUB - Centro Universitário de Brasília, atualmente no 3º semestre. Tenho grande interesse em Desenvolvimento Web e Engenharia Reversa.
 
 Neste espaço, você encontrará projetos desenvolvidos durante minha jornada acadêmica, experimentos e estudos pessoais. Estou sempre buscando aprender e aplicar novos conhecimentos!
 
